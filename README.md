@@ -1,1 +1,1 @@
-The store project with a microservice approach, which is divided into four different parts, in this project, we tried to use different technologies (RabbitMQ, MediatR, gRPC, etc.) It has been implemented, all of them can be used on Docker
+The store project with a microservice approach, which is divided into four different parts, in this project, we tried to use different technologies (RabbitMQ, MediatR, gRPC, etc.) It has been implemented, all of them can be used on Docker.
